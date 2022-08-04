@@ -1,0 +1,30 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: url(/images/wallpapper.jpg);
+    background-repeat: no-repeat;
+    background-size: 86em 100vh;
+  }
+  
+  p,h1,label {
+    color: #ffffff;
+  }
+  .ifd{
+    background-color: #ffffff0f;
+    border-radius: 20px;
+    height: 350px;
+}
+#user-error,#pass-error{
+  display: none;
+  color: rgb(220,53,69);
+  font-style: italic;
+}
+.hgt{
+  color: white;
+  background-color: #ffffff0d;
+  width: 9em;
+  height: 2.3em;
+  border-radius: 16px;
+  float: right;
+ 
+}
